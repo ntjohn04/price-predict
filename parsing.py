@@ -1,0 +1,103 @@
+import pandas as pd
+import numpy as np
+import json
+
+import sys
+
+datafile = open('response.json')
+data = json.load(datafile)
+
+orig_stdout = sys.stdout
+f = open('outall.txt', 'w')
+sys.stdout = f
+
+item_list = []
+detailDict = {"Name": -1, "Quality": -1, "Price": -1, "Effect": -1}
+
+def addItem(name, quality, price, currency, effect, craftable):
+    item = {}
+    item["Name"] = name
+    item["Quality"] = quality
+    item["Effect"] = effect
+    item["Craftable"] = craftable
+
+    if currency == "keys":
+        price = price * 69.11
+    elif currency == "hat":
+        price = price * 1.39
+    
+    item["Price"] = price
+
+    item_list.append(item)
+
+
+for item in data["response"]["items"]:
+    #print(item)
+    for quality in data["response"]["items"][item]["prices"]:
+        #print("Quality: " + str(quality))
+        if "Non-Craftable" in data["response"]["items"][item]["prices"][quality]["Tradable"]:
+            #print("Non-Craftable")
+            
+            if type(data["response"]["items"][item]["prices"][quality]["Tradable"]["Non-Craftable"]) == list:
+                price = data["response"]["items"][item]["prices"][quality]["Tradable"]["Non-Craftable"][0]["value"]
+                #print("Price: " + str(price))
+                #print()
+
+                addItem(item, quality, price, -1, -1, False)
+
+            else:
+                #print("Unusuals")
+                for effect in data["response"]["items"][item]["prices"][quality]["Tradable"]["Non-Craftable"]:
+                    price = data["response"]["items"][item]["prices"][quality]["Tradable"]["Non-Craftable"][effect]["value"]
+                    #print("Price for " + str(effect) + ": " + str(price))
+
+                    addItem(item, quality, price, -1, effect, False)
+
+
+
+        if "Craftable" in data["response"]["items"][item]["prices"][quality]["Tradable"]:
+            #print("Craftable")
+
+            if type(data["response"]["items"][item]["prices"][quality]["Tradable"]["Craftable"]) == list:
+                price = data["response"]["items"][item]["prices"][quality]["Tradable"]["Craftable"][0]["value"]
+                #print("Price: " + str(price))
+                #print()
+
+                addItem(item, quality, price, -1, -1, True)
+
+            else:
+                #print("Unusuals")
+                for effect in data["response"]["items"][item]["prices"][quality]["Tradable"]["Craftable"]:
+                    price = data["response"]["items"][item]["prices"][quality]["Tradable"]["Craftable"][effect]["value"]
+                    #print("Price for " + str(effect) + ": " + str(price))
+
+                    addItem(item, quality, price, -1, effect, True)
+    #print()
+    #print()
+    #print()
+
+for item in item_list:
+    print(item["Name"])
+    print("Quality: ", item["Quality"])
+    print("Effect: ", item["Effect"])
+    print("Craftable: ", item["Craftable"])
+    print("Price: ", item["Price"])
+    
+    print()
+    print()
+
+sys.stdout = orig_stdout
+f.close()
+
+
+'''
+                Normal = 0
+                Genuine = 1
+                Vintage = 3
+                Unusual = 5
+                Unique = 6
+                Self-Made = 9
+                Strange = 11
+                Collector = 14
+                Decorated Weapon = 15
+'''

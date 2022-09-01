@@ -1,0 +1,957 @@
+{
+	"GunMettleCosmetics_collection"
+	{
+		"name"				"#GunMettleCosmetics_collection"
+		"description"		"#GunMettleCosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Captain Cardbeard Cutthroat"			"10"
+				"Potassium Bonnett"						"10"
+			}
+			"legendary"
+			{
+				"Bruce's Bonnet"						"10"
+				"El Duderino"							"10"
+				"Sheriff's Stetson"						"10"
+			}
+			"mythical"
+			{
+				"The Physician's Protector"				"10"
+				"Outta' Sight"							"10"
+				"Fortunate Son"							"10"
+				"White Russian"							"10"
+			}
+			"rare"
+			{
+				"The Rotation Sensation"				"10"
+				"The Vascular Vestment"					"10"
+				"Support Spurs"							"10"
+				"Lurker's Leathers"						"10"
+				"Commissar's Coat"						"10"
+				"Wild West Waistcoat"					"10"
+				"Flak Jack"								"10"
+			}
+		}
+	}
+
+	"Invasion_collection_01_lootlist"
+	{
+		"name"				"#Invasion_collection_01"
+		"description"		"#Invasion_collection_01_desc"
+		"items"
+		{
+			"rare"
+			{
+				"Universal Translator"              "10"
+				"Phobos Filter"                     "10"
+				"Final Frontiersman"                "10"
+				"Life Support System"               "10"
+			}
+			"mythical"
+			{
+				"Captain Space Mann"				"10"
+				"Shooting Star"						"10"			
+				"Rocket Operator"                   "10"
+			}
+			"legendary"
+			{
+				"The Giger Counter"					"10"			
+				"Starduster"                        "10"
+			}
+			"ancient"
+			{
+				"Corona Australis"                  "10"
+				"Sucker Slug"                       "10"
+			}
+		}
+	}
+
+	"Invasion_collection_02_lootlist"
+	{
+		"name"				"#Invasion_collection_02"
+		"description"		"#Invasion_collection_02_desc"
+		"items"
+		{
+			"rare"
+			{
+				"The Graylien"                      "10"
+				"Cadet Visor"                       "10"
+				"The Space Diver"					"10"
+				"A Head Full of Hot Air"            "10"
+			}
+			"mythical"
+			{
+				"Phononaut"                         "10"
+				"Jupiter Jetpack"					"10"
+				"The C.A.P.P.E.R"					"10"			
+			}
+			"legendary"
+			{
+				"Space Hamster Hammy"				"10"
+				"Taunt: Burstchester"				"10"
+			}
+			"ancient"
+			{
+				"Batsaber"							"10"			
+			}
+		}
+	}
+
+	"halloween2015_collection_lootlist"
+	{
+		"name"				"#halloween2015_collection_name"
+		"description"		"#halloween2015_collection_name_desc"
+		"items"
+		{
+			"rare"
+			{
+				"Roboot"							"10"
+				"The Face of Mercy"					"10"
+				"El Patron"							"10"
+				"Smokey Sombrero"					"10"
+				"Thrilling Tracksuit"				"10"
+				"Prehistoric Pullover"				"10"
+				"The Hellmet"						"10"
+				"B'aaarrgh-n-Britches"				"10"
+			}
+			"mythical"
+			{
+				"Neptune's Nightmare"				"10"
+				"Death Racer's Helmet"				"10"
+				"Duck Billed Hatypus"				"10"
+				"Iron Lung"							"10"
+				"B'aaarrgh-n-Bicorne"				"10"
+				"El Caballero"						"10"
+			}
+			"legendary"
+			{
+				"Grim Tweeter"						"10"
+				"Crusader's Getup"					"10"
+				"Dead'er Alive"						"10"
+			}
+			"ancient"
+			{
+				"Arthropod's Aspect"				"10"
+				"Catastrophic Companions"			"10"
+			}
+		}
+	}
+	
+	"ToughBreakCosmetics_collection"
+	{
+		"name"				"#ToughBreakCosmetics_collection"
+		"description"		"#ToughBreakCosmetics_collection_desc"
+		"items"
+		{
+			"legendary"
+			{
+				"A Well Wrapped Hat"					"10"
+			}
+			"mythical"
+			{
+				"The Chill Chullo"						"10"
+				"The Gift Bringer"						"10"
+				"Bonk Batter's Backup"					"10"
+				"Winter Backup"							"10"
+			}
+			"rare"
+			{
+				"Shin Shredders"						"10"
+				"The Patriot Peak" 						"10"
+				"The Diplomat"							"10"
+				"Siberian Sweater"						"10"
+				"Medical Monarch"						"10"
+				"Chicago Overcoat"						"10"
+				"A Hat to Kill For"						"10"
+				"Hot Heels"								"10"
+				"Berlin Brain Bowl"						"10"
+				"Bunnyhopper's Ballistics Vest"			"10"
+			}
+		}
+	}
+	
+	"MayflowerCosmetics_collection"
+	{
+		"name"				"MayflowerCosmetics_collection"
+		"description"		"MayflowerCosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Bedouin Bandana"						"10"
+				"The Dead Head"							"10"
+			}
+			"legendary"
+			{
+				"The Dayjogger"							"10"
+				"Dad Duds"								"10"
+			}
+			"mythical"
+			{
+				"Herald's Helm"							"10"
+				"The Lurking Legionnaire"				"10"
+				"The Gauzed Gaze"						"10"
+				"The Patriot's Pouches"					"10"
+			}
+			"rare"
+			{
+				"The Airdog"							"10"
+				"Courtly Cuirass"						"10"
+				"Squire's Sabatons"						"10"
+				"The Surgical Survivalist"				"10"
+				"The Demo's Dustcatcher"				"10"
+				"The Scoped Spartan"					"10"
+			}
+		}
+	}
+
+	"halloween2016_collection_lootlist"
+	{
+		"name"				"#halloween2016_collection_name"
+		"description"		"#halloween2016_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Combustible Cutie"						"10"
+				"Class Crown"							"10"
+			}
+			"legendary"
+			{
+				"Burly Beast"							"10"
+				"Pestering Jester"						"10"
+				"Mo'Horn"								"10"
+			}
+			"mythical"
+			{
+				"The Toadstool Topper"					"10"
+				"Big Topper"							"10"
+				"Heavy Tourism"							"10"
+				"The Corpus Christi Cranium"			"10"
+				"Spirit of the Bombing Past"			"10"
+				"Lil' Bitey"							"10"
+			}
+			"rare"
+			{
+				"Colossal Cranium"						"10"
+				"Showstopper"							"10"
+				"The Cranial Carcharodon"				"10"
+				"Spooktacles"							"10"
+				"The El Paso Poncho"					"10"
+				"The Wide-Brimmed Bandito"				"10"
+				"Nasty Norsemann"						"10"
+				"The Surgeon's Sidearms"				"10"
+				"Mad Mask"								"10"
+				"The Wing Mann"							"10"
+			}
+		}
+	}
+
+	"Winter2016_Cosmetics_collection"
+	{
+		"name"				"#Winter2016Cosmetics_collection"
+		"description"		"#Winter2016Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"The Snowmann"					"10"
+				"The Bomber Knight"				"10"
+			}
+			"legendary"
+			{
+				"The Head Prize"				"10"
+				"Pyro the Flamedeer"			"10"
+				"Snowwing"						"10"
+			}
+			"mythical"
+			{
+				"Flammable Favor"				"10"
+				"The Electric Twanger"			"10"
+				"Bomb Beanie"					"10"
+				"Woolen Warmer"					"10"
+				"Socked and Loaded"				"10"
+			}
+			"rare"
+			{
+				"Sweet Smissmas Sweater"		"10"
+				"Handy Canes"					"10"
+				"Elf Esteem"					"10"
+				"Packable Provisions"			"10"
+				"Brain-Warming Wear"			"10"
+				"Reader's Choice"				"10"
+				"Santarchimedes"				"10"
+			}
+		}
+	}
+
+	"RainyDayCosmetics_collection"
+	{
+		"name"				"RainyDayCosmetics_collection"
+		"description"		"RainyDayCosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Flash of Inspiration"					"10"
+				"The Lightning Lid"						"10"
+			}
+			"legendary"
+			{
+				"Plumber's Cap"							"10"
+				"Legendary Lid"							"10"
+				"Guilden Guardian"						"10"
+			}
+			"mythical"
+			{
+				"Archer's Sterling"						"10"
+				"Pocket Pauling"						"10"
+				"Messenger's Mail Bag"					"10"
+				"Hawk Eyed Hunter"						"10"
+				"Down Under Duster"						"10"
+			}
+			"rare"
+			{
+				"Speedster's Spandex"					"10"
+				"The Upgrade"							"10"
+				"Blast Defense"							"10"
+				"Head Mounted Double Observatory"		"10"
+				"Field Practice"						"10"
+				"Warhood"								"10"
+				"Airborne Attire"						"10"
+				"Flakcatcher"							"10"
+				"Airtight Arsonist"						"10"
+			}
+		}
+	}
+
+	"Campaign3Cosmetics_Case1_collection"
+	{
+		"name"				"#Campaign3Cosmetics_Case1_collection"
+		"description"		"#Campaign3Cosmetics_Case1_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Quizzical Quetzal"					"10"
+				"The War Eagle"						"10"
+			}
+			"legendary"
+			{
+				"The Aztec Aggressor"				"10"
+				"Jungle Jersey"						"10"
+				"Tropical Toad"						"10"
+			}
+			"mythical"
+			{
+				"The Hunter in Darkness"			"10"
+				"D-eye-monds"						"10"
+				"Transparent Trousers"				"10"
+				"The Croaking Hazard"				"10"
+				"Rifleman's Regalia"				"10"
+			}
+			"rare"
+			{
+				"Bait and Bite"						"10"
+				"The Nuke"							"10"
+				"Attack Packs"						"10"
+				"The Shellmet"						"10"
+				"Forest Footwear"					"10"
+				"The Most Dangerous Mane"			"10"
+				"The Classy Capper"					"10"
+				"The Pithy Professional"			"10"
+				"Conaghers' Utility Idol"			"10"
+				"Fireman's Essentials"				"10"
+			}
+		}
+	}
+
+	"Campaign3Cosmetics_Case2_collection"
+	{
+		"name"				"#Campaign3Cosmetics_Case2_collection"
+		"description"		"#Campaign3Cosmetics_Case2_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"The Slithering Scarf"				"10"
+				"The Aztec Warrior"					"10"
+			}
+			"legendary"
+			{
+				"Jungle Wreath"						"10"
+				"Bananades"							"10"
+				"Sacrificial Stone"					"10"
+			}
+			"mythical"
+			{
+				"The Crit Cloak"					"10"
+				"Pocket Saxton"						"10"
+				"The Hot Huaraches"					"10"
+				"Feathered Fiend"					"10"
+				"The Conspicuous Camouflage"		"10"
+			}
+			"rare"
+			{
+				"Fat Man's Field Cap"				"10"
+				"Heavy Harness"						"10"
+				"Battle Boonie"						"10"
+				"Vitals Vest"						"10"
+				"Sharp Chest Pain"					"10"
+				"Deity's Dress"						"10"
+				"The Cammy Jammies"					"10"
+				"Siberian Tigerstripe"				"10"
+				"Commando Elite"					"10"
+				"Aloha Apparel"						"10"
+			}
+		}
+	}
+
+
+	"UniqueSkins_collection"
+	{
+		"name"				"#UniqueSkins_collection"
+		"description"		"#UniqueSkins_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Paintkit 390"       		"10"
+			}
+		}
+	}
+
+	"Winter2017Cosmetics_collection"
+	{
+		"name"				"Winter2017Cosmetics_collection"
+		"description"		"Winter2017Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Balloonihoodie"       		"10"
+				"Hungover Hero"       		"10"
+			}
+			"legendary"
+			{
+				"Coldfront Carapace"       	"10"
+				"The Cat's Pajamas"       	"10"
+				"The Handsome Hitman"       "10"
+			}
+			"mythical"
+			{
+				"Sledder's Sidekick"       	"10"
+				"Burning Beanie"       		"10"
+				"Coldfront Commander"      	"10"
+				"Wild West Whiskers"       	"10"
+				"Melody Of Misery"       	"10"
+			}
+			"rare"
+			{
+				"Pocket Yeti"       		"10"
+				"Blast Blocker"       		"10"
+				"Puffy Polar Cap"       	"10"
+				"The Sinner's Shade"       	"10"
+				"Polar Bear"       			"10"
+				"Brass Bucket"       		"10"
+				"Down Tundra Coat"       	"10"
+				"Pocket Santa"       		"10"
+				"The Caribou Companion"   	"10"
+				"Trucker's Topper"       	"10"
+			}
+		}
+	}
+
+	"BlueMoonCosmetics_collection"
+	{
+		"name"				"BlueMoonCosmetics_collection"
+		"description"		"BlueMoonCosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Robin Walkers"					"10"
+			}
+			"legendary"
+			{
+				"The Frag Proof Fragger"		"10"
+				"Private Maggot Muncher"		"10"
+				"The Cold Case"					"10"
+			}
+			"mythical"
+			{
+				"Starboard Crusader"			"10"
+				"Scourge of the Sky"			"10"
+				"Veterans Attire"				"10"
+				"The Burning Question"			"10"
+				"Aristotle"						"10"
+				"Blizzard Britches"				"10"
+				"Punk's Pomp"					"10"
+			}
+			"rare"
+			{
+				"The Tundra Top"				"10"
+				"Antarctic Eyewear"				"10"
+				"The Head Hedge"				"10"
+				"Tsar Platinum"					"10"
+				"Sky High Fly Guy"				"10"
+				"The Hot Case"					"10"
+				"Assassin's Attire"				"10"
+				"Wipe Out Wraps"				"10"
+			}
+		}
+	}
+
+	"halloween2018_collection"
+	{
+		"name"				"#halloween2018_collection_name"
+		"description"		"#halloween2018_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Lucky Cat Hat"					"10"
+			}
+			"legendary"
+			{
+				"Mr. Quackers"					"10"
+				"Terror-antula"					"10"
+				"Defragmenting Hard Hat 17%"	"10"
+			}
+			"mythical"
+			{
+				"The Tank Top"					"10"
+				"Gaelic Glutton"				"10"
+				"Athenian Attire"				"10"
+				"Pyro in Chinatown"				"10"
+				"Dressperado"					"10"
+				"Aim Assistant"					"10"
+			}
+			"rare"
+			{
+				"Mini-Engy"						"10"
+				"Deadbeats"						"10"
+				"Mann-O-War"					"10"
+				"Hephaistos' Handcraft"			"10"
+				"Olympic Leapers"				"10"
+				"Vampire Vanquisher"			"10"
+				"Highway Star"					"10"
+				"Bandit's Boots"				"10"
+				"Murderer's Motif"				"10"
+				"The Arachno-Arsonist"			"10"
+			}
+		}
+	}
+
+	"Winter2018Cosmetics_collection"
+	{
+		"name"				"Winter2018Cosmetics_collection"
+		"description"		"Winter2018Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Bread Heads"				"10"
+			}
+			"legendary"
+			{
+				"Millennial Mercenary"		"10"
+				"The Dumb Bell"				"10"
+				"The Polar Pal"				"10"
+			}
+			"mythical"
+			{
+				"The Puggyback"				"10"					
+				"Harry"						"10"
+				"Pocket Admin"				"10"
+				"Cool Capuchon"				"10"
+				"Miser's Muttonchops"		"10"
+			}
+			"rare"
+			{
+				"Pocket Pardner"			"10"
+				"Climbing Commander"		"10"
+				"The Crack Pot"				"10"
+				"Juvenile's Jumper"			"10"
+				"The Catcher's Companion"	"10"
+				"Paka Parka"				"10"
+				"Snowcapped"				"10"
+				"Wise Whiskers"				"10"
+				"Mighty Mitre"				"10"
+			}
+		}
+	}
+
+	"Summer2019Cosmetics_collection"
+	{
+		"name"				"Summer2019Cosmetics_collection"
+		"description"		"Summer2019Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"The Peacebreaker"				"10"
+				"Texas Toast"					"10"
+			}
+			"legendary"
+			{
+				"Unforgiven Glory"				"10"
+				"Bobby Bonnet"					"10"
+				"The Bare Necessities"			"10"
+				"The Fiery Phoenix"				"10"
+			}
+			"mythical"
+			{
+				"Spawn Camper"					"10"
+				"Backbreaker's Skullcracker"	"10"
+				"Kapitan's Kaftan"				"10"
+				"Wagga Wagga Wear"				"10"
+				"Speedy Scoundrel"				"10"
+				"Dynamite Abs"					"10"
+			}
+			"rare"
+			{
+				"Shutterbug"					"10"
+				"Melted Mop"					"10"
+				"Wanderer's Wear"				"10"
+				"Backbreaker's Guards"			"10"
+				"Mediterranean Mercenary"		"10"
+				"Stapler's Specs"				"10"
+				"The Pompous Privateer"			"10"
+				"The Bottle Cap"				"10"
+				"Brain Interface"				"10"
+				"Dancing Doe"					"10"
+			}
+		}
+	}
+
+	"halloween2019_collection"
+	{
+		"name"				"#halloween2019_collection_name"
+		"description"		"#halloween2019_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Mister Bones"				"10"
+				"Pyr'o Lantern"				"10"
+			}
+			"legendary"
+			{
+				"Racc Mann"					"10"
+				"Head of the Dead"			"10"
+				"Elizabeth the Third"		"10"
+				"The Trick Stabber"			"10"
+			}
+			"mythical"
+			{
+				"Madmann's Muzzle"			"10"
+				"The Horrible Horns"		"10"
+				"Skullbrero"				"10"
+				"Soviet Strongmann"			"10"
+				"Voodoo Vizier"				"10"
+				"El Zapateador"				"10"
+			}
+			"rare"
+			{
+				"Bat Hat"					"10"
+				"Bread Biter"				"10"
+				"Derangement Garment"		"10"
+				"El Mostacho"				"10"
+				"Candy Cranium"				"10"
+				"Convict Cap"				"10"
+				"Pocket Halloween Boss"		"10"
+				"Party Poncho"				"10"
+				"Fuel Injector"				"10"
+				"Binoculus"					"10"
+			}
+		}
+	}
+
+	"Winter2019Cosmetics_collection"
+	{
+		"name"				"Winter2019Cosmetics_collection"
+		"description"		"Winter2019Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Candy Crown"				"10"
+			}
+			"legendary"
+			{
+				"Provisions Cap"			"10"
+				"Smissmas Saxton"			"10"
+				"Public Speaker"			"10"
+			}
+			"mythical"
+			{
+				"Discovision"				"10"
+				"Winter Wrap Up"			"10"
+				"Globetrotter"				"10"
+				"Telefragger Toque"			"10"
+				"The Mislaid Sweater"		"10"
+			}
+			"rare"
+			{
+				"Pebbles the Penguin"		"10"
+				"Spiky Viking"				"10"
+				"Bumble Beenie"				"10"
+				"Gingerbread Mann"			"10"
+				"Yule Hog"					"10"
+				"Glittering Garland"		"10"
+				"The Missing Piece"			"10"
+				"Citizen Cane"				"10"
+				"Pocket-Medes"				"10"
+			}
+		}
+	}
+
+	"Summer2020Cosmetics_collection"
+	{
+		"name"				"Summer2020Cosmetics_collection"
+		"description"		"Summer2020Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Hypno-eyes"				"10"
+				"Breadcrab"					"10"
+			}
+			"legendary"
+			{
+				"Hawk Warrior"				"10"
+				"Smoking Jacket"			"10"
+				"Loaf Loafers"				"10"
+				"Flamehawk"					"10"
+			}
+			"mythical"
+			{
+				"Flatliner"					"10"
+				"Breach and Bomb"			"10"
+				"Bird's Eye Viewer"			"10"
+				"Hazard Headgear"			"10"
+				"Tools of the Tourist"		"10"
+				"Momma Kiev"				"10"
+			}
+			"rare"
+			{
+				"Fire Fighter"				"10"
+				"Self-Care"					"10"
+				"Bazaar Bauble"				"10"
+				"Crabe de Chapeau"			"10"
+				"Poolside Polo"				"10"
+				"California Cap"			"10"
+				"Soda Specs"				"10"
+				"Sophisticated Smoker"		"10"
+				"The Jarmaments"			"10"
+				"Head Of Defense"			"10"
+			}
+		}
+	}
+
+	"halloween2020_collection"
+	{
+		"name"				"#halloween2020_collection_name"
+		"description"		"#halloween2020_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"All Hallows' Hatte"				"10"
+				"Balloonicorpse"					"10"
+			}
+			"legendary"
+			{
+				"Wrap-A-Khamon"						"10"
+				"Misfortune Fedora"					"10"
+				"Wavefinder"						"10"
+				"The Fire Tooth"					"10"
+			}
+			"mythical"
+			{
+				"Glow from Below"					"10"
+				"Gourd Grin"						"10"
+				"Sir Pumpkinton"					"10"
+				"Impish Ears"						"10"
+				"Eye-see-you"						"10"
+				"Semi-tame Trapper's Hat"			"10"
+			}
+			"rare"
+			{
+				"Calamitous Cauldron"				"10"
+				"The Seared Sorcerer"				"10"
+				"Goblineer"							"10"
+				"Handsome Devil"					"10"
+				"A Handsome Handy Thing"			"10"
+				"Hollowed Helm"						"10"
+				"Flavorful Baggies"					"10"
+				"King Cardbeard"					"10"
+				"The Boom Boxers"					"10"
+				"The Ghoul Box"						"10"
+			}
+		}
+	}
+
+	"Winter2020Cosmetics_collection"
+	{
+		"name"				"Winter2020Cosmetics_collection"
+		"description"		"Winter2020Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Towering Pile Of Presents"			"1"
+			}
+			"legendary"
+			{
+				"The Round-A-Bout"					"1"
+				"Towering Pillar of Beanies"		"1"
+				"Helm Helm"							"1"
+			}
+			"mythical"
+			{
+				"Blitzen Bowl"						"1"
+				"The Smissmass Sorcerer"			"1"	
+				"Professional's Pom Pom"			"1"
+				"BedBug Protection"					"1"
+				"SandMann's Brush"					"1"
+				"Night Ward"						"1"
+			}
+			"rare"
+			{
+				"Particulate Protector"				"1"
+				"Elf Care Provider"					"1"
+				"Jolly Jingler"						"1"
+				"Festive Fascinator"				"1"
+				"Candy Cantlers"					"1"
+				"Reindoonibeanie"					"1"
+				"Shoestring Santa"					"1"
+				"Festive Flip-thwomps"				"1"
+				"Bear Walker"						"1"
+				"The Killing Tree"					"1"
+			}
+		}
+	}
+
+	"Summer2021Cosmetics_collection"
+	{
+		"name"				"Summer2021Cosmetics_collection"
+		"description"		"Summer2021Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Ballooniphones"			"10"
+			}
+			"legendary"
+			{
+				"Crustaceous Cowl"			"10"
+				"Fast Food"					"10"
+				"The Panisher"				"10"
+			}
+			"mythical"
+			{
+				"Snack Stack"				"10"
+				"Water Waders"				"10"
+				"Meal Dealer"				"10"
+				"Crocodile Dandy"			"10"
+				"The Sightliner"			"10"
+			}
+			"rare"
+			{
+				"Manndatory Attire"			"10"
+				"Hook Line and Cinder"		"10"
+				"Two Punch Mann"			"10"
+				"Reel Fly Hat"				"10"
+				"Fried Batter"				"10"
+				"Wild Brim Slouch"			"10"
+				"Brim of Fire"				"10"
+				"Roaming Roman"				"10"
+				"Thousand-Yard Stare"		"10"
+			}
+		}
+	}
+
+	"halloween2021_collection"
+	{
+		"name"				"#halloween2021_collection_name"
+		"description"		"#halloween2021_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Towering Patch of Pumpkins"	"10"
+			}
+			"legendary"
+			{
+				"Wandering Wraith"				"10"
+				"The Bone Cone"					"10"
+				"Gruesome Gourd"				"10"
+			}
+			"mythical"
+			{
+				"The Hook, Line, and Thinker"	"10"
+				"Second-head Headwear"			"10"
+				"Alakablamicon"					"10"
+				"Goalkeeper"					"10"
+				"Eyequarium"					"10"
+				"Optic Nerve"					"10"
+			}
+			"rare"
+			{
+				"Beanie The All-Gnawing"		"10"
+				"Twisted Topper"				"10"
+				"Spooky Head-Bouncers"			"10"
+				"Creepy Crawlers"				"10"
+				"Trickster's Treats"			"10"
+				"The Scariest Mask EVER"		"10"
+				"Hat Outta Hell"				"10"
+				"Death Stare"					"10"
+				"Smiling Somen"					"10"
+			}
+		}
+	}
+
+	"Winter2021Cosmetics_collection"
+	{
+		"name"				"Winter2021Cosmetics_collection"
+		"description"		"Winter2021Cosmetics_collection_desc"
+		"items"
+		{
+			"ancient"
+			{
+				"Oh Deer!"					"1"
+			}
+			"legendary"
+			{
+				"Jolly Jester"				"1"
+				"Merry Cone"				"1"
+				"Hat Chocolate"				"1"
+			}
+			"mythical"
+			{
+				"Seasonal Spring"			"1"
+				"Reindoonihorns"			"1"
+				"Elf Ignition"				"1"
+				"Train Of Thought"			"1"
+				"Seasonal Employee"			"1"
+				"Elf-Made Bandanna"			"1"
+			}
+			"rare"
+			{
+				"El Fiestibrero"			"1"
+				"Gnome Dome"				"1"
+				"The Giftcrafter"			"1"
+				"Brain Cane"				"1"
+				"Cozy Catchers"				"1"
+				"Ominous Offering"			"1"
+				"Festive Frames"			"1"
+				"Mooshanka"					"1"
+				"Elf Defence"				"1"
+				"Festive Cover-Up"			"1"
+			}
+		}
+	}
