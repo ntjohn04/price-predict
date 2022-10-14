@@ -9,7 +9,7 @@ gradeFile = open("items_game.json", "r")
 gradeLines = gradeFile.readlines()
 
 
-test = "bingbongtrump"
+test = "abcdef"
 print('"ancient"')
 
 redList = []
